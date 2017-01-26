@@ -1,0 +1,6 @@
+select distinct microfinance_bank,`expected_monthly_repayment_month`,`expected_monthly_repayment_year` from merged_result;
+
+
+select sum(`amount_deducted`),sum(`outstanding`),sum(`remittance`),sum(total_expected) from merged_result where microfinance_bank='AELLA CREDIT' and `expected_monthly_repayment_month`='january' and `expected_monthly_repayment_year`='2016'
+
+

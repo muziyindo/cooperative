@@ -1,0 +1,30 @@
+[17-Dec-2015 10:22:44 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/primerac/public_html/messaging/application/controllers/Home.php on line 144
+[17-Dec-2015 10:22:49 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/primerac/public_html/messaging/application/controllers/Home.php on line 144
+[17-Dec-2015 10:22:52 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/primerac/public_html/messaging/application/controllers/Home.php on line 144
+[17-Dec-2015 10:22:54 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/primerac/public_html/messaging/application/controllers/Home.php on line 144
+[17-Dec-2015 10:22:57 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/primerac/public_html/messaging/application/controllers/Home.php on line 144
+[17-Dec-2015 10:23:00 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/primerac/public_html/messaging/application/controllers/Home.php on line 144
+[17-Dec-2015 10:23:07 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/primerac/public_html/messaging/application/controllers/Home.php on line 144
+[17-Dec-2015 10:23:27 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/primerac/public_html/messaging/application/controllers/Home.php on line 144
+[17-Dec-2015 10:23:32 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/primerac/public_html/messaging/application/controllers/Home.php on line 144
+[17-Dec-2015 10:23:41 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/primerac/public_html/messaging/application/controllers/Home.php on line 144
+[17-Dec-2015 10:23:58 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/primerac/public_html/messaging/application/controllers/Home.php on line 144
+[17-Dec-2015 10:24:23 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/primerac/public_html/messaging/application/controllers/Home.php on line 144
+[17-Dec-2015 10:24:41 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/primerac/public_html/messaging/application/controllers/Home.php on line 144
+[17-Dec-2015 10:24:43 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/primerac/public_html/messaging/application/controllers/Home.php on line 144
+[17-Dec-2015 10:25:48 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/primerac/public_html/messaging/application/controllers/Home.php on line 144
+[17-Dec-2015 10:25:52 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/primerac/public_html/messaging/application/controllers/Home.php on line 144
+[17-Dec-2015 10:25:56 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/primerac/public_html/messaging/application/controllers/Home.php on line 144
+[11-Jan-2016 10:04:40 America/Chicago] PHP Fatal error:  Call to undefined method PHPExcel_Reader_CSV::listWorksheetNames() in /home/primerac/public_html/messaging/application/controllers/Home.php on line 50
+[11-Jan-2016 10:05:00 America/Chicago] PHP Fatal error:  Call to undefined method PHPExcel_Reader_CSV::listWorksheetNames() in /home/primerac/public_html/messaging/application/controllers/Home.php on line 50
+[11-Jan-2016 10:06:08 America/Chicago] PHP Fatal error:  Call to undefined method PHPExcel_Reader_CSV::listWorksheetNames() in /home/primerac/public_html/messaging/application/controllers/Home.php on line 50
+[02-Feb-2016 06:52:15 America/Chicago] PHP Fatal error:  Call to undefined method PHPExcel_Reader_CSV::listWorksheetNames() in /home/primerac/public_html/messaging/application/controllers/home.php on line 53
+[02-Feb-2016 10:40:16 America/Chicago] PHP Fatal error:  Call to undefined method PHPExcel_Reader_CSV::listWorksheetNames() in /home/primerac/public_html/messaging/application/controllers/home.php on line 58
+[17-Mar-2016 10:53:20 America/Chicago] PHP Fatal error:  Call to undefined method PHPExcel_Reader_CSV::listWorksheetNames() in /home/primerac/public_html/messaging/application/controllers/home.php on line 59
+[17-Mar-2016 10:54:19 America/Chicago] PHP Fatal error:  Call to undefined method PHPExcel_Reader_CSV::listWorksheetNames() in /home/primerac/public_html/messaging/application/controllers/home.php on line 59
+[22-Mar-2016 02:48:36 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/primerac/public_html/messaging/application/controllers/home.php on line 679
+[22-Mar-2016 02:49:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/primerac/public_html/messaging/application/controllers/home.php on line 679
+[08-Apr-2016 02:20:31 America/Chicago] PHP Fatal error:  Call to a member function setTime() on a non-object in /home/primerac/public_html/messaging/excel/PHPExcel/Shared/Date.php on line 169
+[08-Apr-2016 09:46:04 America/Chicago] PHP Fatal error:  Call to undefined method PHPExcel_Reader_CSV::listWorksheetNames() in /home/primerac/public_html/messaging/application/controllers/home.php on line 59
+[08-Apr-2016 10:20:49 America/Chicago] PHP Fatal error:  Call to a member function setTime() on a non-object in /home/primerac/public_html/messaging/excel/PHPExcel/Shared/Date.php on line 169
+[20-Apr-2016 04:03:22 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/primerac/public_html/messaging/application/controllers/rscheduler.php on line 20

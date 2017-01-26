@@ -1,0 +1,27 @@
+Expected_repayment_table
+-------------------------
+
+eid int not null auto_increment,
+name varchar(200),
+oracle_number varchar(200),
+ministry varchar(200),
+loan_amount varchar(200),
+expected_monthly_repayment_amount varchar(200),
+expected_monthly_repayment_month varchar(200),
+expected_monthly_repayment_year varchar(200),
+microfinance_bank varchar(200),
+third_party_company varchar(200),
+loan_tenure varchar(200),
+repayment_frequency varchar(200),
+total_expected varchar(200),
+percentage_from_total varchar(200),
+sum_in_sheet varchar(200),
+status varchar(200),
+date_entered date,
+last_modified date,
+primary key(eid)
+ 
+
+
+
+

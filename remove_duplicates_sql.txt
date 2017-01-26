@@ -1,0 +1,2 @@
+delete from expected_repayment where oracle_number in (select distinct oracle_number from duplicates where month='february' and year='2016') and expected_monthly_repayment_month='february' and expected_monthly_repayment_year='2016';
+delete from expected_repayment where oracle_number in (select distinct oracle_number from duplicates where month='february' and year='2016') and expected_monthly_repayment_month='february' and expected_monthly_repayment_year='2016';

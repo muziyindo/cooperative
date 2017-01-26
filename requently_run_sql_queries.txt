@@ -1,0 +1,4 @@
+delete from cummulative_report;
+delete from merged_result;
+update actual_repayment set status='NOT MERGED';
+update expected_repayment set status='NOT MERGED';

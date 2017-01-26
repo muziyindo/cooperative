@@ -1,0 +1,13 @@
+add amount-deducted,outstanding,remittance--------------done
+
+add another view with the details as shown below:
+
+MFB-bank|Month|Year|cummulative deduction|commulative outstanding|commulative remittances
+
+Search filter and spooling on merged,actual,expected, commulative report page.
+
+Dashboard, graph, google graph
+
+remove the general search--------------------done
+
+change the gentella title------------------------done
